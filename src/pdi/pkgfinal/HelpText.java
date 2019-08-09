@@ -26,7 +26,7 @@ public class HelpText {
                         + "A função transformação “Binarização” vai pedir para o usuário especificar um valor de Limiar e"
                         + " todos os pixels que estiverem acima desse limiar vão receber o valor 255, branco, e os que estiverem "
                         + "abaixo vão receber 0, preto. "
-                        + "Essa função funciona apenas para imagens .PGM ou em tons de cinza.    "
+                        + "Essa função funciona apenas para imagens .PGM ou em tons de cinza.  1aaaaaaaaaaaaaaaaaaaaaaaaaaa  "
                         + "</h3></p>";
                 break;
             case 51:
