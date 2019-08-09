@@ -18,7 +18,7 @@ public class HelpText {
                 m = ("<html><center><h1>Caregar Imagem</h1></center>"
                         + "<p><h3>"
                         + "A Carregar Imagem permite que voce carregue uma imagem .ppm, .pgm ou .pbm no quadro de imagem de Entrada.<br> "
-                        + "Outros formatos nao serão carregados. </h3></p>");
+                        + "Outros formatos nao serão carregados. aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 1 </h3></p>");
                 break;
             case 1://  ****
                 m = "<html><center><h1>Binarização</h1></center>"
